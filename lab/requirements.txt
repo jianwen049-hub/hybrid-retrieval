@@ -1,0 +1,2 @@
+# stdlib-only lab; no third-party packages required.
+# Keep this file so the README install step stays uniform across labs.
